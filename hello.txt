@@ -4,4 +4,4 @@ git-sy
 git-sy
 git-sy
 Hello World!
-master
+git-sy
